@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-using MaximumSumDescent;
+﻿using MaximumSumDescent;
 
 namespace ConsoleApplication
 {
